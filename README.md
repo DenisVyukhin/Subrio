@@ -1,6 +1,6 @@
 # Subrio
 
-## 🇷🇺 Русская версия
+## 🇷🇺 Русский
 
 Subrio - локальный iOS-трекер подписок, созданный на SwiftUI и SwiftData.
 
@@ -63,13 +63,17 @@ xcodebuild -project Subrio.xcodeproj -scheme Subrio -destination 'platform=iOS S
 
 ---
 
-## 🇬🇧 English Version
+## 🇬🇧 English
 
 Subrio is a local-first iOS subscription tracker built with SwiftUI and SwiftData.
 
-<video src="demo.mp4" controls width="320">
-  Your browser does not support embedded video. Open `demo.mp4` to watch the demo.
-</video>
+<p align="center">
+  <img src="demo_1.png" alt="Главный экран Subrio" width="160">
+  <img src="demo_2.png" alt="Список подписок Subrio" width="160">
+  <img src="demo_3.png" alt="Детали подписки Subrio" width="160">
+  <img src="demo_4.png" alt="Аналитика Subrio" width="160">
+  <img src="demo_5.png" alt="Способы оплаты Subrio" width="160">
+</p>
 
 ## Features
 
