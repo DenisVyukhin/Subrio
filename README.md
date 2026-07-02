@@ -4,9 +4,14 @@
 
 Subrio - локальный iOS-трекер подписок, созданный на SwiftUI и SwiftData.
 
-<video src="demo.mp4" controls width="320">
-  Ваш браузер не поддерживает встроенное видео. Откройте `demo.mp4`, чтобы посмотреть демонстрацию.
-</video>
+<p align="center">
+  <img src="demo_1.png" alt="Главный экран Subrio" width="160">
+  <img src="demo_2.png" alt="Список подписок Subrio" width="160">
+  <img src="demo_3.png" alt="Детали подписки Subrio" width="160">
+  <img src="demo_4.png" alt="Аналитика Subrio" width="160">
+  <img src="demo_5.png" alt="Способы оплаты Subrio" width="160">
+  <img src="demo_6.png" alt="Настройки Subrio" width="160">
+</p>
 
 ## Возможности
 
